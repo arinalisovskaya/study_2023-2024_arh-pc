@@ -75,7 +75,7 @@ header-includes:
 # Выполнение лабораторной работы
 Открываем Mid. Commander 
 
-<p align="center">![mc](image/Снимок экрана от 2023-11-11 22-45-46.png){#fig:001 width=70%}</p>
+<p align="center">![mc](image/photo_2023-11-16_13-49-16.jpg){#fig:001 width=70%}</p>
 
 Переходим в каталог, созданный при выполнении 4 ЛБ 
 
